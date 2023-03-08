@@ -1,0 +1,170 @@
+@media only screen and (min-width: 360px ) and (max-width: 700px){
+    
+body{
+    overflow-x: hidden;
+}
+    .save{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .save h1{
+        font-size: 30px;
+        
+        width: 300px;
+        margin: auto;
+    }
+    .save p{
+        font-size: 16px;
+        width: 300px;
+        margin: auto;
+    }   
+    .ex{
+        margin-bottom: 20px;
+    }
+    .save img{
+        width: 300px;
+    }
+    .p{
+        display: none;
+    }
+    .container2h h1{
+        font-size: 30px;
+        width: 300px;
+    }
+    .container3h h1{
+            
+        font-size: 30px;
+        width: 300px;
+    }
+    .my{
+        width: 300px;
+    }
+    .man, .woman{
+        width: 300px;
+    }.tot1{
+        padding-top: -100px;
+    }
+    .container4h h1{
+        width: 300px;
+    }
+    .work{
+        display: none;
+    }
+    .container5h h1, .container6h h1, .container7h h1{
+        width: 300px;
+        margin-bottom: 20px;
+    }
+    .j{
+        text-align: center;
+        width: 300px;
+    }
+    .down{
+        display: none;
+    }
+    .cla{
+        width: 60%;
+    }
+    .inputs{
+        width: 100%;
+    }
+    .inputs input{
+        width:300px;
+        margin-left: 30px;
+    }
+    .navbar button{
+        display: none;
+    }
+}
+@media only screen and (min-width: 700px ) and (max-width: 1280px){
+    
+body{
+    overflow-x: hidden;
+}
+    .save{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .save h1{
+        font-size: 30px;
+        
+        width: 300px;
+        margin: auto;
+    }
+    .save p{
+        font-size: 16px;
+        width: 300px;
+        margin: auto;
+    }   
+    .ex{
+        margin-bottom: 20px;
+    }
+    .save img{
+        width: 300px;
+    }
+    .p{
+        display: none;
+    }
+    .container2h h1{
+        font-size: 30px;
+        width: 300px;
+    }
+    .container3h h1{
+            
+        font-size: 30px;
+        width: 300px;
+    }
+    .my{
+        width: 300px;
+    }
+    .man, .woman{
+        width: 300px;
+    }.tot1{
+        padding-top: -100px;
+    }
+    .container4h h1{
+        width: 300px;
+    }
+    .work{
+        display: none;
+    }
+    .container5h h1, .container6h h1, .container7h h1{
+        width: 300px;
+        margin-bottom: 20px;
+    }
+    .j{
+        text-align: center;
+        width: 300px;
+    }
+    .down{
+        display: none;
+    }
+    .cla{
+        width: 30%;
+    }
+    .inputs{
+        width: 45%;
+    }
+    .inputs input{
+        width:300px;
+        margin-left: 30px;
+    }
+    
+    .navbar button{
+        display: none;
+    }
+}
+select{
+    outline: none;
+    cursor: pointer;
+    height: 30px;
+    width: 70px;
+    border-radius: 54px;
+}
+.o{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+body{
+    overflow-x: hidden;
+}

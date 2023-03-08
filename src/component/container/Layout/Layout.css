@@ -1,0 +1,9 @@
+.container{
+    max-width: 1750px;
+    margin: 0 auto;
+}
+@media only screen and (min-width: 360px ) and (max-width: 699px){
+    .footer{
+        flex-wrap: wrap;
+    }
+}

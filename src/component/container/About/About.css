@@ -1,0 +1,51 @@
+@media only screen and (min-width: 360px ) and (max-width: 700px){
+
+    .container1a h1, .container1a p, .container2a h1, .container2a p, .container3a h1, .container3a p, .container4a h1, .container4a p, .container5a h1{    
+        width: 300px;
+    }
+    .pp,.not{
+        display: none;
+    }
+    .container5a h1{
+        margin-bottom: 50px;
+    }
+    .w p{
+        width: 300px;
+    }
+    .ll{
+        width: 250px;
+    }
+    .lb{
+        width: 210px;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .container6a h1{
+        width: 300px;
+    }
+}
+@media only screen and (min-width: 700px ) and (max-width: 1280px){
+    .container1a h1, .container1a p, .container2a h1, .container2a p, .container3a h1, .container3a p, .container4a h1, .container4a p, .container5a h1{    
+        width: 500px;
+    }
+    .pp,.not{
+        display: none;
+    }
+    .container5a h1{
+        margin-bottom: 50px;
+    }
+    .w p{
+        width: 500px;
+    }
+    .ll{
+        width: 450px;
+    }
+    .lb{
+        width: 410px;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .container6a h1{
+        width: 500px;
+    }
+}
